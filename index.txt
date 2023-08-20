@@ -9,6 +9,7 @@
 <header>
     <h1>Selamat Datang di Halaman Saya</h1>
     <p>welcome home</p>
+    <p>Hello world</p>
 </footer>
 </body>
 </html>
